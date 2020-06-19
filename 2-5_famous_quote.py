@@ -1,0 +1,1 @@
+print('A story by Jorge Luis Borges opened with "I owe the discovery of Uqbar to the conjunction of a mirror and an encyclopedia."')
