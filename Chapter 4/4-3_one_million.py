@@ -1,2 +1,2 @@
-million = list(range(0, 1_000_000))
-print(million)
+for million in range(1, 1_000_001):
+    print(million)
