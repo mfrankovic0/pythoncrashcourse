@@ -1,4 +1,4 @@
-#Copied foods.py from page 63
+# Copied foods.py from page 63
 my_foods = ['pizza', 'falafel', 'carrot cake']
 
 print('My favorite foods are:')

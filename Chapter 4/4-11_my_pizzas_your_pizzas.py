@@ -1,4 +1,4 @@
-#Copied from 4-1
+# Copied from 4-1
 pizzas = ['pepperoni', 'sausage', 'bacon', 'peppers', 'basil']
 
 for pizza in pizzas:
