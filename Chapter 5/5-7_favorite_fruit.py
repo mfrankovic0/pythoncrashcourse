@@ -1,4 +1,4 @@
-favorite_fruit = ['apple', 'pear', 'pineapple',]
+favorite_fruit = ['apple', 'pear', 'pineapple']
 
 if 'orange' in favorite_fruit:
     print('You really like oranges!')
