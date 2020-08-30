@@ -1,4 +1,4 @@
-class Ice_cream_stand:
+class IceCreamStand:
     """An ice cream stand model."""
 
     def __init__(self, name, kind):
@@ -32,7 +32,7 @@ class Ice_cream_stand:
         """Displays the flavors."""
         print(f"Flavors are: {self.flavors}.")
 
-Gelato_de_Giovanni = Ice_cream_stand('Gelato de Giovanni', 'gelato')
+Gelato_de_Giovanni = IceCreamStand('Gelato de Giovanni', 'gelato')
 Gelato_de_Giovanni.flavors = ['vanilla', 'chocolate', 'mint', 'strawberry']
 
 Gelato_de_Giovanni.display_flavors()
