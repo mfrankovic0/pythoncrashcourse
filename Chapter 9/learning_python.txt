@@ -1,0 +1,4 @@
+In Python you can extract text from a file and work with it.
+In Python you can print a million digits.
+In Python you can use data from a web API.
+In Python you can make a game.
