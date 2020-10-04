@@ -9,3 +9,5 @@ with open(guest) as file_object:
 
 for line in lines:
     print(line)
+
+f
